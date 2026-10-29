@@ -23,4 +23,4 @@ I build hardware and software, from PCBs and RC jets to AI agents.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣄⣈⡼
 ```
 
-my projects are at [toivo.dev](https://toivo.dev)
+more at [toivo.dev](https://toivo.dev)
